@@ -916,40 +916,6 @@ transform: scale(1.1);
 
 
 
-.contac-form {
- width: 70rem;  
- display: flex; 
- flex-direction: column;
-}
-
-.contac-form input, .contac-form textarea {
- padding: 1.5rem;  
- background-color: #444; 
- color: #eee;
- border: none;
- margin-bottom: 2rem;
- font-family: "Oswald", sans-serif;
- font-size: 1.8rem;
- font-weight: 300;
- letter-spacing: 0.1rem;
-}
-
-.contac-form textarea {
-    max-width: 100%;
-    max-height: 15rem;
-    min-height: 5.5rem;
-}
-
-.contac-form input[type="submit"] {
-    background-color: #7a1010;
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.contac-form input[type="submit"]:hover {
- background-color: #5f0303;   
-}
 
 
 
